@@ -52,7 +52,5 @@ Este projeto é um conversor de moeda que permite aos usuários converter valore
       apiKey: "sua-chave-de-api"
   };
 ```
-Contato
-Fabio Arrozio - fab.arrozio@gmail.com
 
 GitHub: https://github.com/fabioarrozio
